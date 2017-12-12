@@ -11,7 +11,8 @@ Ice目前有四个版本的文档，分别是3.4、3.5、3.6和3.7。本书翻�
 - 尽量选择我已经整理的目录，这样能保证最低的冲突可能性；记得每次开始翻译和提交之前，先拉取一下。
 - 参与的译者没有任何内容多少的要求，翻译嘛，开心就好。
 
-最后，再次感谢各位读者译者的参与，祝各位在书里书外玩的开心。该书的项目地址[https://www.gitbook.com/book/weiofcn/ice-manual-cn/](https://www.gitbook.com/book/weiofcn/ice-manual-cn/)
+最后，再次感谢各位读者译者的参与，祝各位在书里书外玩的开心。
+附上书的项目地址：[https://www.gitbook.com/book/weiofcn/ice-manual-cn/](https://www.gitbook.com/book/weiofcn/ice-manual-cn/)
 
 2017-12-8
 
